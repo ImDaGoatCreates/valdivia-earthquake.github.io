@@ -1,3 +1,3 @@
-# valdivia-eartquake.github.io
+# valdivia-earthquake.github.io
 
 A website for school
